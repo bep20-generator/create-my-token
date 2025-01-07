@@ -1,6 +1,8 @@
 ## How to create a Token?
 Solana Token Creator
+
 bep20 token creator
+
 erc20 token creator
 
 We will tell you how to create your own token in minutes without any code knowledge
